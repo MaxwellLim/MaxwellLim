@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @MaxwellLim
-- 👀 I’m interested in coding obviously and also video games
-- 📫 How to reach me 
--      https://www.linkedin.com/in/maxwell-lim-739917175/
+<body>
+Hi, I’m @MaxwellLim
+</b>
+I’m interested in coding obviously and also video games
+</b>
+How to reach me
+</b>
+<img align="center" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0956A2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[[linkedin]]()
+</body>
 
-<!---
-MaxwellLim/MaxwellLim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[linkedin]: https://www.linkedin.com/in/maxwell-lim-739917175/
