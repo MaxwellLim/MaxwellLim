@@ -1,6 +1,6 @@
 ### Hello, I am Maxwell Lim
-I am a Graduate of the University of Texas at Dallas
-I majored in Computer Science
+I am a Graduate of the University of Texas at Dallas.
+I majored in Computer Science and am currently in the process of job seeking.
 <br />
 [![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwellLim)](https://github.com/anuraghazra/github-readme-stats)
 <br />
