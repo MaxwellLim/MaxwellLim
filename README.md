@@ -1,5 +1,5 @@
 ### Hello, I am Maxwell Lim
-I am a university student at the University of Texas at Dallas. I Am currently working towards my master's degree in computer science specializing in data science.
+I am a university student at the University of Texas at Dallas. I am currently working towards my master's degree in computer science specializing in data science.
 <br />
 [![Maxwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxwellLim)](https://github.com/anuraghazra/github-readme-stats)
 <br />
